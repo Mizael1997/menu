@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MCamera"
+        android:icon="@drawable/baseline_camera"
+        android:title="@string/camera" />
+    <item
+        android:id="@+id/mGallery"
+        android:icon="@drawable/baseline_gallery"
+        android:title="@string/gallery" />
+    <item
+        android:id="@+id/mTools"
+        android:icon="@drawable/baseline_tools"
+        android:title="@string/tools" />
+    <item
+        android:id="@+id/mShare"
+        android:icon="@drawable/baseline_share"
+        android:title="@string/share" />
+    <item
+        android:id="@+id/MSend"
+        android:icon="@drawable/baseline_send"
+        android:title="@string/send" />
+</menu>

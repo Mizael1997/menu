@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="arquivo">Arquivo</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="sair">Sair</string>
+    <string name="home">Home</string>
+    <string name="buscar">Buscar</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="configurar">Configurar</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="gallry">Gallry</string>
+    <string name="gallery">Gallery</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="tools">Tools</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mArquivo"
+        android:icon="@drawable/baseline_attach_file"
+        android:title="@string/arquivo" />
+    <item
+        android:id="@+id/mEditar"
+        android:icon="@drawable/baseline_edit"
+        android:title="@string/editar" />
+
+    <item
+        android:id="@+id/mExcluir"
+        android:icon="@drawable/baseline_delete"
+        android:title="@string/excluir" />
+
+    <item
+        android:id="@+id/mSalvar"
+        android:icon="@drawable/baseline_save"
+        android:title="@string/salvar" />
+
+    <item
+        android:id="@+id/mSair"
+        android:icon="@drawable/baseline_exit"
+        android:title="@string/sair" />
+</menu>

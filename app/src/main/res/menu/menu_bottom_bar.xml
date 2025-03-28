@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/baseline_home"
+        app:showAsAction="always"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/mBuscar"
+        android:icon="@drawable/baseline_search"
+        app:showAsAction="ifRoom"
+        android:title="@string/buscar" />
+
+    <item
+        android:id="@+id/mCompartilhar"
+        android:icon="@drawable/baseline_share"
+        app:showAsAction="ifRoom"
+        android:title="@string/compartilhar" />
+    <item
+        android:id="@+id/mConfigurar"
+        android:icon="@drawable/baseline_settings"
+        app:showAsAction="ifRoom"
+        android:title="@string/configurar" />
+    <item
+        android:id="@+id/mProfile"
+        android:icon="@drawable/baseline_people"
+        app:showAsAction="ifRoom"
+        android:title="@string/profile" />
+
+</menu>
